@@ -1,0 +1,3 @@
+Trade executed: 5 units @ 100 (Buyer ID: 1, Seller ID: 2)
+Trade executed: 10 units @ 101 (Buyer ID: 5, Seller ID: 3)
+Trade executed: 1 units @ 100 (Buyer ID: 1, Seller ID: 7)
